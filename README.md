@@ -1,4 +1,4 @@
-Salish is a workflow management library named after the [Salish Sea](https://en.wikipedia.org/wiki/Salish_Sea).
+Salish is a workflow management library.
 
 Example:
 
